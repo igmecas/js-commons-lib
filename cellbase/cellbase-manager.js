@@ -9,7 +9,6 @@ function CellBaseManager(species, args) {
 	if(args != null) {
 		
 	}
-//		this.host = 'http://localhost:8080/celldb/rest';
 
 	CELLBASEHOST=this.host;
 	
